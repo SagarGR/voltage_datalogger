@@ -1,0 +1,7 @@
+connections:
+
+
+
+s=output pin ; connect it to analog pin A0
++= vcc ; connet it to 5v input(can take the supply from arduino board itself)
+-=GND ; connect it to groung of arduino
